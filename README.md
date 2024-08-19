@@ -1,0 +1,1 @@
+# Lab1_I_am_rich
