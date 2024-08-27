@@ -1,2 +1,2 @@
-# Lab1_I_Am_Rich
-# Phat trien ung dung di dong da nen tang
+# Lab1-I-Am-Rich
+# Phat trien ung dung di dong da nen tang (5)
